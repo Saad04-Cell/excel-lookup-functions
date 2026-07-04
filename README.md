@@ -28,6 +28,8 @@ This project demonstrates how to use both VLOOKUP and XLOOKUP to answer real bus
 
 - Lookup Function.xlsx
 - Lookup-Challenge.png
+ ## Project Preview
+ <img width="1638" height="987" alt="lookup" src="https://github.com/user-attachments/assets/2d680b54-bf05-458b-926f-64698ace5e0a" />
 
 
 ## Learning Outcome
