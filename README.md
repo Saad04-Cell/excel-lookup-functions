@@ -31,7 +31,7 @@ This project demonstrates how to use both VLOOKUP and XLOOKUP to answer real bus
  
 ## Learning Outcome
 
-This exercise strengthened my understanding of both traditional and modern lookup functions in Excel.
+This project strengthened my understanding of both traditional and modern lookup functions in Excel.
 
 ## Author
 
