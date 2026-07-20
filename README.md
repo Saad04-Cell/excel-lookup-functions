@@ -24,10 +24,12 @@ This project demonstrates how to use both VLOOKUP and XLOOKUP to answer real bus
 - Exact Match Searches
 - Structured Excel Tables
 
-## Files Included
+## 📂 Project Files
 
-- Lookup Function.xlsx
-- Lookup-Challenge.png
+Download the project files below:
+
+- 📊 [Excel Lookup Function Workbook](./THE%20LOOKUP%20FUNCTION.xlsx)
+- 🖼️ [Lookup Dashboard Preview](./lookup%20%20png.png)
  
 ## Learning Outcome
 
